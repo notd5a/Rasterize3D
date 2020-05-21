@@ -6,4 +6,4 @@ Converting images such as:
 ![Original Image](statue.jpg)
 Into: 
 ![Rasterized image](statue_0001.png)
-Useful for creating 3D animations using processing
+Useful for creating 3D animations using processing.
